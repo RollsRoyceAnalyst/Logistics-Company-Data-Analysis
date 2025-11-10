@@ -1,4 +1,4 @@
-# Logistics-Company-Data-Analysis
+# Logistics-Company-Data-Analysis-With-Excel
 The logistics industry is vital for efficient goods movement but often faces challenges like high costs, delays, and poor route management. With the rise of data-driven decision-making, logistics data analysis helps organizations identify inefficiencies, improve delivery performance, and reduce expenses. This project focuses on analyzing logistics data to uncover patterns, evaluate performance metrics such as delivery time and cost, and provide insights to improve operational efficiency and customer satisfaction.
 #  Problem Statement
 Many logistics operations suffer from high transportation costs, late deliveries, and inefficient route planning due to poor data utilization. The problem is the lack of proper analysis of logistics data to understand performance drivers and optimize operations. This project aims to analyze logistics data to identify key factors affecting cost and delivery efficiency, highlight underperforming areas, and recommend data-based strategies for improvement.
